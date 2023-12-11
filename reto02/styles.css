@@ -22,8 +22,8 @@ img{
 }
 
 .text{
-    display: flex;
-    flex-direction: column;
+    margin-bottom: 13px;
+    margin-top: 13px;
     gap: 13px;
     padding: 25px;
 }
@@ -60,8 +60,7 @@ h5{
 }
 
 div{
-    display: flex;
-    flex-direction: column;
-    gap: 5px;
+    margin-bottom: 5px;
+    margin-top: 5px;
 }
 
